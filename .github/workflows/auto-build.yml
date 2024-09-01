@@ -1,6 +1,5 @@
 name: Automatic check update and Build
 on:
- 
   #   - cron: '0 0 * * *'
   workflow_dispatch:
 
